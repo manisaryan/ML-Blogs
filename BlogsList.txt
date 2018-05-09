@@ -4,3 +4,4 @@ https://ahmedbesbes.com/how-to-mine-newsfeed-data-and-extract-interactive-insigh
 
 Algebriac effect
 https://www.janestreet.com/tech-talks/effective-programming/
+https://flaviocopes.com/javascript-regular-expressions/
