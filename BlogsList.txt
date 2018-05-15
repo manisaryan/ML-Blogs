@@ -8,3 +8,7 @@ https://flaviocopes.com/javascript-regular-expressions/
 
 Async Generators JavaScript:
 https://www.youtube.com/watch?v=W4brAobC2Hc
+
+
+Javascript Tutorial:
+https://www.learnenough.com/javascript-tutorial/
