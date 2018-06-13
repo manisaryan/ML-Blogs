@@ -5,6 +5,7 @@
 <li>https://www.kdnuggets.com/2018/03/5-things-sentiment-analysis-classification.html</li>
 <li>https://datafloq.com/read/what-is-the-blockchain-and-why-is-it-so-important/2270</li>
 <li>https://ahmedbesbes.com/how-to-mine-newsfeed-data-and-extract-interactive-insights-in-python.html</li>
+<li>https://www.kdnuggets.com/2018/06/diy-deep-learning-projects.html</li>
 </ul>
 
 *****
