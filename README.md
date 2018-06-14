@@ -6,6 +6,7 @@
 <li>https://datafloq.com/read/what-is-the-blockchain-and-why-is-it-so-important/2270</li>
 <li>https://ahmedbesbes.com/how-to-mine-newsfeed-data-and-extract-interactive-insights-in-python.html</li>
 <li>https://www.kdnuggets.com/2018/06/diy-deep-learning-projects.html</li>
+<li>https://www.kdnuggets.com/2018/06/natural-language-semantic-search-arbitrary-objects-deep-learning.html</li>
 </ul>
 
 *****
