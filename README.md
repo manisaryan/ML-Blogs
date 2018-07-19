@@ -29,6 +29,7 @@
 ## Javascript Tutorial:
 <ul>
   <li>https://www.learnenough.com/javascript-tutorial/</li>
+  <li>https://blog.nrwl.io/using-ngupgrade-like-a-pro-lazy-loading-angularjs-applications-469819f5c86</li>
 </ul>
 
 *****
